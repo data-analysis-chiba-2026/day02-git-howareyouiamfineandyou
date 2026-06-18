@@ -8,4 +8,4 @@ git tracks changes to files in a special folder called a repo, which is short fo
 
 git keeps a log of all the changes you have made to your files. Each change is called a commit. You always provide a short comment describing what happened in the change.
 
-git is _______! (choose your favorite description ^^ )
+git is awesome! (choose your favorite description ^^ )
